@@ -1,0 +1,16 @@
+127.0.0.1 - - [23/May/2023:10:35:50 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/May/2023:10:35:51 +0000] "GET /ServletDemo/ HTTP/1.1" 200 384
+127.0.0.1 - - [23/May/2023:10:36:14 +0000] "POST /ServletDemo/ServletGetPostDemo HTTP/1.1" 200 20
+127.0.0.1 - - [23/May/2023:10:36:59 +0000] "GET /ServletDemo/ HTTP/1.1" 200 383
+127.0.0.1 - - [23/May/2023:10:37:22 +0000] "GET /ServletDemo/ServletGetPostDemo?name=Sampath&address=BLR HTTP/1.1" 200 19
+127.0.0.1 - - [23/May/2023:10:38:24 +0000] "GET /ServletDemo/ServletGetPostDemo?name=Sampath&address=4646474748484848 HTTP/1.1" 200 19
+127.0.0.1 - - [23/May/2023:12:08:40 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/May/2023:12:08:40 +0000] "GET /ServletDemoWithWebXML/ HTTP/1.1" 404 1038
+127.0.0.1 - - [23/May/2023:12:09:02 +0000] "GET /ServletDemoWithWebXML/Servlet1 HTTP/1.1" 200 19
+127.0.0.1 - - [23/May/2023:12:09:37 +0000] "GET /ServletDemoWithWebXML/abc HTTP/1.1" 404 1044
+127.0.0.1 - - [23/May/2023:12:09:57 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/May/2023:12:09:58 +0000] "GET /ServletDemoWithWebXML/ HTTP/1.1" 404 1038
+127.0.0.1 - - [23/May/2023:12:10:04 +0000] "GET /ServletDemoWithWebXML/abc HTTP/1.1" 200 19
+127.0.0.1 - - [23/May/2023:12:31:29 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [23/May/2023:12:31:30 +0000] "GET /ServletDemoWithWebXML/ HTTP/1.1" 404 1038
+127.0.0.1 - - [23/May/2023:12:31:36 +0000] "GET /ServletDemoWithWebXML/gen1 HTTP/1.1" 200 40

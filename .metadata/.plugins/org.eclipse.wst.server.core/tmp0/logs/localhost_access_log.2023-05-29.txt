@@ -1,0 +1,6 @@
+127.0.0.1 - - [29/May/2023:11:30:02 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [29/May/2023:11:30:02 +0000] "GET /HibernateDemo/ HTTP/1.1" 200 136
+127.0.0.1 - - [29/May/2023:11:30:16 +0000] "GET /HibernateDemo/init HTTP/1.1" 200 88
+127.0.0.1 - - [29/May/2023:12:09:05 +0000] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [29/May/2023:12:09:06 +0000] "GET /HibernateDemo/ HTTP/1.1" 200 232
+127.0.0.1 - - [29/May/2023:12:09:12 +0000] "GET /HibernateDemo/HibernateQueryDemo HTTP/1.1" 200 821

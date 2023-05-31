@@ -1,0 +1,5 @@
+package com.simpli;
+
+public class HibernateUtil {
+
+}

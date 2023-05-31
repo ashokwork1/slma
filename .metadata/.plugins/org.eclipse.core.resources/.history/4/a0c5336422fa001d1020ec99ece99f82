@@ -1,0 +1,13 @@
+
+Servlet Life Cycle Demo
+<a href="life-cycle"> Click here to see the life cycle in action</a>
+
+<br>
+<br>
+
+Form processing Demo
+<form method=POST  action="life-cycle">
+<br>Name: <input name="name">
+<br>Age: <input name="age">
+<br> <input type="submit" value="SUBMIT">
+</form>

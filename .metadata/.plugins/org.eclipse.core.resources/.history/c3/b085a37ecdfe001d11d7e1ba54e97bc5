@@ -1,0 +1,6 @@
+package snippet;
+
+public class Snippet {
+	log4j.appender.fi le .File=/home/oem/Downloads/hibernate.log
+}
+
