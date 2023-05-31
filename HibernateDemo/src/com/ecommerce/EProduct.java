@@ -9,8 +9,17 @@ public class EProduct {
 	private String name;
 	private BigDecimal price;
 	private Date dateAdded;
-
 	
+	ProductParts parts;
+	
+	public ProductParts getParts() {
+		return parts;
+	}
+
+	public void setParts(ProductParts parts) {
+		this.parts = parts;
+	}
+
 	private List<Color> colors;
 
 	private Set<OS> os;
