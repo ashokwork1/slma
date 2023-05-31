@@ -10,6 +10,7 @@ public class EProduct {
 	private BigDecimal price;
 	private Date dateAdded;
 	
+	//Component Mapping
 	ProductParts parts;
 	
 	public ProductParts getParts() {
@@ -20,6 +21,7 @@ public class EProduct {
 		this.parts = parts;
 	}
 
+	// Collection Mapping
 	private List<Color> colors;
 
 	private Set<OS> os;
